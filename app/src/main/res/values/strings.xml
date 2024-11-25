@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IntentsActivity</string>
+    <string name="nom">Nom: </string>
+    <string name="edat">Edat:</string>
+    <string name="go_back">GO BACK</string>
+    <string name="go_to_alumnes">GO TO ALUMNES</string>
+    <string name="input_edat">Edat</string>
+    <string name="input_nom">Nom</string>
+    <string name="add_alumne">ADD ALUMNE</string>
+    <string-array name="cursos_array">
+        <item>SMX1</item>
+        <item>SMX2</item>
+        <item>DAM1</item>
+        <item>DAM2</item>
+    </string-array>
+</resources>
